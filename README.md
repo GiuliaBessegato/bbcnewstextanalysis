@@ -13,7 +13,8 @@ If you make use of the dataset, please consider citing the publication:
 All rights, including copyright, in the content of the original articles are owned by the BBC.
 
 ### Why the project is useful
-The relevance of analyzing articles' texts on media is linked to framing issues and events as long as they may configure both public opinion and emotional responses of the reader. 
+The relevance of analyzing articles' texts on media is linked to framing issues and events as long as they may configure both public opinion and emotional responses of the reader
+
 ---
 #### Author
 Bessegato Giulia
