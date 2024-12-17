@@ -14,6 +14,6 @@ All rights, including copyright, in the content of the original articles are own
 
 ### Why the project is useful
 The relevance of analyzing articles' texts on media is linked to framing issues and events as long as they may configure both public opinion and emotional responses of the reader. 
-
-### Who maintains and contributes to the project
-This is an individual report written for a university course.
+---
+#### Author
+Bessegato Giulia
